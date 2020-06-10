@@ -10,9 +10,7 @@ Maven projects are defined with an XML file named pom.xml. Among other things, t
 Embedded Apache Tomcat. Navigate to http://localhost:8080/. 
 
 # Database
-spring.datasource.url=jdbc:mysql
-spring.jpa.database= MYSQL
-
+Mysql
 # Build
 Building with Maven
 
