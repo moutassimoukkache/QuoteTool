@@ -1,6 +1,7 @@
 # the cost estimate for the project of a home
 
-# Language = french
+# Language 
+french
 
 # QuoteTool
 - This project was generated with springframework.boot 2.1.12.RELEASE, 
