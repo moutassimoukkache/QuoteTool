@@ -1,7 +1,4 @@
-# Estimate home
-
-# Language 
-french
+# Estimate home (Back-End
 
 # QuoteTool
 - This project was generated with springframework.boot 2.1.12.RELEASE, 
@@ -14,6 +11,9 @@ Embedded Apache Tomcat. Navigate to http://localhost:8080/.
 Mysql
 # Build
 Building with Maven
+
+# Language 
+french
 
 # Further help
 
